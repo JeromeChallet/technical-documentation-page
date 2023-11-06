@@ -1,6 +1,6 @@
-# Census Web Page
+# Technical Web Page
 
-Welcome to the Tribute Page to Michael Crichton, a simple HTML and CSS page designed to learn about his lifetime accomplishements.
+Welcome to the Technical page for JS, a simple HTML and CSS page designed to learn about Javascript basics.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This project is a basic web page created using HTML and CSS. It's intended for e
 
 ## Features
 
-- User-friendly, static web page with a census theme.
+- User-friendly, static web page with a documentation theme.
 - Provides a simple, responsive layout for various screen sizes.
 - Easy to customize and add more content.
 
@@ -19,5 +19,5 @@ To get started with this project, simply clone the repository or download the so
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jrme421/tribute-page.git
+   git clone https://github.com/jrme421/technical-documentation-page.git
    ```
